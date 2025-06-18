@@ -14,3 +14,5 @@ eas.json should have
 login details for expo:
 	umamashesh006@gmail.com
 	uma@1729
+
+that build:configure will generate eas.json. Then modify and run third command
