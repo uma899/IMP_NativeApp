@@ -34,8 +34,8 @@ Don't expect this project has everything so that you modify text and throw it in
 *  So if you want to learn, change your decision and focus on something else.
 
 # Want to see?
-Download all files, unzip, run npm install, then, wait, then npm start. Boom. Install expo on phone, then throw this screen away. So there's other simpler option. There's an apk 'hidden' in assets folder. Go on and install. See the mess.. If not worked, get apk at [limk](https://drive.google.com/file/d/17j6fXVviW0cEM-51ecNeAnVQkWVL5O-w/view?usp=sharing)
+Download all files, unzip, run npm install, then, wait, then npm start. Boom. Install expo on phone, then throw this screen away. So there's other simpler option. There's an apk 'hidden' in assets folder. Go on and install. See the mess.. If not worked, get apk at [link](https://drive.google.com/file/d/17j6fXVviW0cEM-51ecNeAnVQkWVL5O-w/view?usp=sharing)
 
 Good Luck!
 
-Signing Off.. It's been 17:45 (re-edited). Try closing this window as far as possible..
+Signing Off.. It's been 17:46 (re-edited). Try closing this window as far as possible..
