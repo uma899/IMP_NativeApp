@@ -1,0 +1,16 @@
+eas login
+eas build:configure
+eas build -p android --profile production  
+
+
+eas.json should have
+    "production": {
+      "android": {
+        "buildType": "apk"
+      }
+    }
+
+
+login details for expo:
+	umamashesh006@gmail.com
+	uma@1729
